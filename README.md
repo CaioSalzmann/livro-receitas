@@ -1,6 +1,13 @@
-Livro de Receitas :D
+# Livro de Receitas!
 
-Olá! Bem vindo ao meu livro de receitas <3
+## Venham dar uma  👀
 
- - Stroggonoff
+#### Olá! Bem vindo ao meu livro de receitas 🍪
+
+ - Estrogonofe
+
  - Pavê
+
+ - Torta de frango
+
+   
